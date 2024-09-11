@@ -1,4 +1,0 @@
-[defaults]
-inventory = /path/to/your/inventory
-remote_user = ubuntu
-host_key_checking = True

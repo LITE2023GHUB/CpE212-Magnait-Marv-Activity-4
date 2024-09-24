@@ -1,0 +1,4 @@
+[defaults]
+inventory = /path/to/your/inventory/home/adminmagnait/CpE212-Magnait-Marv-Activity-4
+remote_user = ubuntu
+host_key_checking = True
